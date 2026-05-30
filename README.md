@@ -5,9 +5,20 @@
 Developed an interactive Hospital Emergency Room Dashboard using Microsoft Excel and Power BI to analyze patient visits, waiting times, admission status, satisfaction scores, and referral patterns.
 
 🔧 Tools Used
+
+
+
+
 Microsoft Excel (Data Cleaning & Preparation)
 Power BI (Data Modeling & Visualization)
+
+
+
 📊 Key Features
+
+
+
+
 Total Patients Analysis
 Patient Admission Status (Admitted vs Not Admitted)
 Average Patient Wait Time Tracking
@@ -17,12 +28,25 @@ Patient Attendance Analysis (On-Time vs Delayed)
 Age Group-wise Patient Analysis
 Department Referral Analysis
 Monthly Interactive Filtering and Reporting
+
+
+
+
 📈 Insights Generated
+
+
+
 Identified peak patient age groups.
 Analyzed referral trends across hospital departments.
 Monitored emergency room waiting times and patient satisfaction.
 Tracked admission rates and attendance performance.
+
+
+
 🎯 Skills Demonstrated
+
+
+
 Data Cleaning
 Data Visualization
 Dashboard Design
