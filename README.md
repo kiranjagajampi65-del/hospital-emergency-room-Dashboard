@@ -1,77 +1,27 @@
-# hospital-emergency-room-Dashboard
-🏥 Hospital Emergency Room Dashboard
-📌 Project Overview
-
-Developed an interactive Hospital Emergency Room Dashboard using Microsoft Excel and Power BI to analyze patient visits, waiting times, admission status, satisfaction scores, and referral patterns.
-
-🔧 Tools Used
-
-
-
-
-Microsoft Excel (Data Cleaning & Preparation)
-Power BI (Data Modeling & Visualization)
-
-
-
-📊 Key Features
-
-
-
-
-Total Patients Analysis
-Patient Admission Status (Admitted vs Not Admitted)
-Average Patient Wait Time Tracking
-Patient Satisfaction Score Monitoring
-Gender-wise Patient Distribution
-Patient Attendance Analysis (On-Time vs Delayed)
-Age Group-wise Patient Analysis
-Department Referral Analysis
-Monthly Interactive Filtering and Reporting
-
-
-
-
-📈 Insights Generated
-
-
-
-Identified peak patient age groups.
-Analyzed referral trends across hospital departments.
-Monitored emergency room waiting times and patient satisfaction.
-Tracked admission rates and attendance performance.
-
-
-
-🎯 Skills Demonstrated
-
-
-
-Data Cleaning
-Data Visualization
-Dashboard Design
-KPI Development
-DAX Calculations
-Business Intelligence Reporting
-
 Hospital Emergency Room Dashboard
 
-This project was created using Excel and Power BI. The goal was to analyze hospital emergency room data and present important information in an easy-to-understand dashboard.
+This project was built using Microsoft Excel and Power BI to analyze Emergency Room performance and present key operational metrics through an interactive dashboard.
 
 What I Did
-Cleaned and prepared the data in Excel.
-Created an interactive dashboard in Power BI.
-Analyzed total number of patients.
-Compared admitted and non-admitted patients.
-Calculated average patient waiting time.
-Tracked patient satisfaction scores.
-Analyzed patients by age group and gender.
-Examined department referrals.
-Added monthly filters for better analysis.
-Skills Used
+Cleaned and structured raw hospital data in Excel for accurate analysis.
+Built a fully interactive dashboard in Power BI with intuitive visuals and filters.
+Analyzed patient volume, admission rates, and average waiting times.
+Monitored patient satisfaction scores and attendance performance.
+Created breakdowns by age group, gender, and referral department.
+Implemented monthly filters and dynamic reporting for trend analysis.
+Key Insights Delivered
+Identified peak age groups visiting the ER.
+Highlighted referral patterns across departments.
+Uncovered bottlenecks in patient wait times and satisfaction.
+Compared admission rates and on-time vs delayed attendance.
+Skills Demonstrated
 Excel
+
+Data cleaning and transformation
+Creating structured tables for Power BI connectivity
 Power BI
-Data Cleaning
-Data Visualization
-DAX
-Dashboard Creation
+
+Data modeling and relationships
+Interactive visualizations and filtering
+DAX measures for KPIs (patient count, average wait time, satisfaction scores)
+Dashboard design and business reporting
