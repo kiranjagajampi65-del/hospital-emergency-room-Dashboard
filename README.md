@@ -29,15 +29,6 @@ Dashboard Design
 KPI Development
 DAX Calculations
 Business Intelligence Reporting
-Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-This version looks professional on GitHub and is suitable for showcasing a data analytics project.
-
-in human written they cant no that
-
-If you want it to sound more like it was written by a student rather than AI-generated, keep it simple:
 
 Hospital Emergency Room Dashboard
 
